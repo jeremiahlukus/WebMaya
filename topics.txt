@@ -1,0 +1,23 @@
+iTerm2 - is what i use for a terminal (not a big deal )
+
+1) basic navigation in terminal
+    mkdir
+    cd
+    ls
+    file path
+    touch
+    rm
+    rm -rf 
+
+2) basic vim nav
+    (i) insert mode
+    (v) visual mode / (y) yank lines  (p) paste 
+    (w) move to end of word
+    ($) move to end of line
+    (q) quit 
+    (esc) exit mode
+    (w) write 
+    <Control- w>  new horizontal split 
+    <C-w> s  split window horizontally 
+
+3) basic html jazz 
