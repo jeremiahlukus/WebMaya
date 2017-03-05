@@ -1,13 +1,13 @@
 iTerm2 - is what i use for a terminal (not a big deal )
 
 1) basic navigation in terminal
-    mkdir
-    cd
-    ls
+    mkdir nameOfFolder - make directory (folder)
+    cd  goHere - change dir
+    ls - list contents of dir
     file path
-    touch
-    rm
-    rm -rf 
+    touch file.txt- creates a empty file
+    rm file.txt   - removes a file
+    rm -rf  folder  - removes everything in a folder
 
 2) basic vim nav
     (i) insert mode
@@ -21,3 +21,7 @@ iTerm2 - is what i use for a terminal (not a big deal )
     <C-w> s  split window horizontally 
 
 3) basic html jazz 
+    h1,h2,h3
+    <p> 
+    <pre>
+    <table>
